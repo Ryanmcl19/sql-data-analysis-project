@@ -11,7 +11,7 @@ Welcome to my Data Analytics Project! This is a continuation of my Data Warehous
 6. **Change-Over-Time Analysis**: Aggregated each year's total sales or each month's total sales and calculated month-over-month sales. <br>
 7. **Cumulative Analysis**: Calculated and displayed month-over-month sales alongside a running total. Calculated the average sold product price month-over-month alongside a moving average. <br>
 8. **Performance Analysis**: Analyzed yearly sales performance of products by comparing their sales to their average yearly sales and also their previous years sales. <br>
-9. **Part-To-Whole Analysis**: Calculatde the contribution of each categories' sales to the total sales. <br>
+9. **Part-To-Whole Analysis**: Calculated the contribution of each categories' sales to the total sales. <br>
 10. **Data Segmentation**:   Segmented products into cost ranges and count how many products fall into each group. Grouped customers into three segments based on their spending total and spending history <br>
 
 
