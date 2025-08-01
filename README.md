@@ -1,7 +1,7 @@
 # sql-data-analysis-project
 Welcome to my Data Analytics Project! This is a continuation of my Data Warehousing Project that I made while following my online SQL course created by [Data With Baraa](https://github.com/DataWithBaraa). Using the data tables and views from the previous project, I performed numerous analyses such as database exploration, date range exploration, measure exploration, magnitude analysis, ranking analysis, change over time analysis, cumulative analysis, performance analysis, part-to-whole analysis, and data segmentation. <br>
 
-## Task descriptions for each analysis
+## Task descriptions For Each Section
 
 1. **Database Exploration**: Explored all the columns in the database and learned how the data is structured and categorized. <br>
 2. **Date Range Exploration**: Found the oldest/newest orders placed and the oldest/youngest customers.  <br>
@@ -13,3 +13,8 @@ Welcome to my Data Analytics Project! This is a continuation of my Data Warehous
 8. **Performance Analysis**: Analyzed yearly sales performance of products by comparing their sales to their average yearly sales and also their previous years sales. <br>
 9. **Part-To-Whole Analysis**: Calculatde the contribution of each categories' sales to the total sales. <br>
 10. **Data Segmentation**:   Segmented products into cost ranges and count how many products fall into each group. Grouped customers into three segments based on their spending total and spending history <br>
+
+
+
+## Whats Next?
+I have truly enjoyed working with ERP and CRM data that simulates work done as a product data analyst/engineer. I intend on adding a separate section to this project where I'll perform more complex queries to strengthen my ability to maintain data integrity, accuracy, and create insightful reports at a high level. 
